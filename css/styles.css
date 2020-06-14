@@ -1,0 +1,20 @@
+.jumbotron {
+  margin-bottom: 0px;
+  padding-top: 100px;
+}
+
+.heading {
+  margin: 60px 0px 60px 0px;
+}
+
+.chicken,
+.beef,
+.sushi {
+  padding-left: 10px;
+}
+.chicken a,
+.beef a,
+.sushi a {
+  padding-left: 50px;
+  color: #fff;
+}
